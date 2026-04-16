@@ -6,4 +6,4 @@ If you wish to share your mod, please start a new discussion. When the mod is ad
 `https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Mods/raw/refs/heads/main/Mods/<-ModNameHere->.7z`
 
 ## **Average Users:** 
-Do NOT start discussions here or your post will be deleted. You may discuss mods on their respective threads.
+Do NOT start discussions here or your post will be deleted. You may discuss mods on their respective threads. If you have an issue with the game, report an issue on the main repository [here](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated/issues) or start a new discussion [here](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated/discussions).
