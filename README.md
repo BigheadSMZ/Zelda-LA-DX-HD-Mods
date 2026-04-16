@@ -1,4 +1,4 @@
-# Zelda-LA-DX-HD-Mods
+# TLoZ: LADXHD Mods
 A collection of mods created for LADXHD. See the [Discussions](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Mods/discussions) section to view the available shared mods.
 
 ## **Mod Creators:** 
