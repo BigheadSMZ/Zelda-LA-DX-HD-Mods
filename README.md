@@ -1,2 +1,9 @@
 # Zelda-LA-DX-HD-Mods
-A collection of mods created for LADXHD.
+A collection of mods created for LADXHD. See the [Discussions](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Mods/discussions) section to view the available shared mods.
+
+## **Mod Creators:** 
+If you wish to share your mod, please start a new discussion. When the mod is added to the repo, it can be linked to directly via:
+`https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Mods/raw/refs/heads/main/Mods/<-ModNameHere->.7z`
+
+## **Average Users:** 
+Do NOT start discussions here or your post will be deleted. You may discuss mods on their respective threads.
