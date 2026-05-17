@@ -4,7 +4,7 @@ A collection of mods created for LADXHD. See the [Discussions](https://github.co
 ## **Mod Creators:** 
 If you wish to share your mod, please start a new discussion.<br>
 When the mod is added to the repo, it can be linked to directly via:<br>
-`https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Mods/raw/refs/heads/main/Mods/<-ModNameHere->.7z`
+`https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Mods/raw/refs/heads/main/Mods/<-ModNameHere->`
 
 ## **Average Users:** 
 Do NOT start discussions here or your post will be deleted.<br>
